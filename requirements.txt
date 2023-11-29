@@ -141,9 +141,9 @@ soupsieve==2.5
 stack-data==0.6.3
 supervision==0.16.0
 sympy==1.12
-tensorboard==2.14.1
+tensorboard>=2.14.1
 tensorboard-data-server==0.7.1
-tensorflow==2.15.0
+tensorflow>=2.14.0
 tensorflow-estimator==2.14.0
 
 tensorflow-io-gcs-filesystem==0.31.0
